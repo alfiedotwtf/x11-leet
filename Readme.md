@@ -17,8 +17,6 @@ x11-leet is a handful of scripts that will automatically install and setup the f
 * [xfe](http://roland65.free.fr/xfe/) - lightweight file manager for X Window (Alt + Shift + x)
 * [xscreensaver](http://www.jwz.org/xscreensaver/) - screen saver, blanking, and locking the screen (Ctrl + Alt + Delete)
 
-* NOTE: Terminator looks busted in Debian Stretch using X11-leet*
-
 Here's an example of x11-leet installed on my machine:
 
 ![Screenshot](https://github.com/alfiedotwtf/x11-leet/blob/master/screenshot.jpg)
