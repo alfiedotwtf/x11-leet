@@ -10,6 +10,7 @@ DIRS=        \
 PACKAGES=          \
   alsa-utils       \
   firmware-iwlwifi \
+  libdbus-glib-1-2 \
   scrot            \
   vlc              \
   wicd-gtk         \
