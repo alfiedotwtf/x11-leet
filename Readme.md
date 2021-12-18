@@ -19,7 +19,7 @@ x11-leet is a handful of scripts that will automatically install and setup the f
 
 Here's an example of x11-leet installed on my machine:
 
-![Screenshot](https://gitlab.com/alfiedotwtf/x11-leet/raw/master/screenshot.jpg?inline=true)
+![Screenshot](https://github.com/alfiedotwtf/x11-leet/raw/master/screenshot.jpg?inline=true)
 
 # INSTALLATION
 
@@ -85,7 +85,7 @@ IT COMES WITHOUT WARRANTY OF ANY KIND.
 
 # COPYRIGHT AND LICENSE
 
-Perpetual Copyright (C) to Alfie John
+Copyright (C) 2021 to Alfie John
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
